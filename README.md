@@ -2,7 +2,7 @@
 
 I'm Amirmasoud Iravani.
 
-My fascination with language and intelligent machines began long before I knew the fields of Computational Linguistics and Natural Language Processing (NLP) existed. What started as curiosity about how humans acquire language and how computers might understand it eventually became my academic and professional path.
+My fascination with language and intelligent machines began long before I knew the fields of Computational Linguistics and Natural Language Processing existed. What started as curiosity about how humans acquire language and how computers might understand it eventually became my academic and professional path.
 
 Today, I am a PhD Candidate in Linguistics at Ferdowsi University of Mashhad, with research interests in Natural Language Processing, Corpus Linguistics, and Computational Linguistics.
 
